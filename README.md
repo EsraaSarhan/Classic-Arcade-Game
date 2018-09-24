@@ -8,6 +8,8 @@ frontend-nanodegree-arcade-game
 	**The goal of the game is navigate the player over the field to cross the streets fields with bugs as player's enemies.
 	
 ## How To Play:
+	**download the folder from https://github.com/EsraaSarhan/Classic-Arcade-Game and open index.html in browser).
+
 	**The object of the game is simple, you must direct the hero character across the grey brick road, full of enemy bugs, towards the water without getting hit.
 
 ## Your Scores:
