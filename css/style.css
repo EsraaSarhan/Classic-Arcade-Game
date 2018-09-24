@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    height: 100%;
+    background: url('../images/pink.jpg') repeat;
+    width: 505px;
+    margin: 0 auto;
+    font-family: cursive;
+}
+
+
+h1,
+h2,
+h4,
+h5,
+h6 {
+    margin: 10px 0;
+    padding: 0;
+}
+p{
+    font-weight: bold;
+    margin: 15px 0;
+    height: 20px;
+    font-size: 20px;
+    color: #b93a0a;
+    font-family: cursive;
+}
+#level{
+    float:left;
+}
+#enemies{
+    float:right;
+}
+canvas {
+    margin-top: -55px;
+}
